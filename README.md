@@ -1,6 +1,6 @@
 # :clapper: Sentiment Analysis for Movie Reviews
 
-*This repository demonstrates [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) being applied to a binary classification problem: predicting the sentiment (positive or negative) of movie reviews.*
+*This repository demonstrates [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) being applied to a binary classification problem: predicting the sentiment (positive or negative) of movie reviews. Go [here](MovieReviewSentimentNotebook.md) to view the notebook itself.*
 
 | ML.NET version | API type          | App Type    | Data type | Scenario            | ML Task                   | Algorithm                  |
 |----------------|-------------------|-------------|-----------|---------------------|---------------------------|-----------------------------|
